@@ -25,3 +25,5 @@ console.log(catStringSpread);
 const cat = {name: "meow", breed:"Barn cat"};
 const copycat = {...cat};
 console.log(copycat);
+
+//Great operator but might not be very readable and understandable at a surface level..
